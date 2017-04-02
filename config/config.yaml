@@ -1,1 +1,5 @@
-
+video:
+  width: 800
+  fps: 60
+  fullscreen: yes
+  height: 600
