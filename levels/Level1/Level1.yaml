@@ -1,0 +1,12 @@
+%TAG ! tag:crispbit.com,2017:iamsynth/
+--- !levelmeta
+name: "The Scientist's Lab"
+levelfile: "Level1.dat"
+spritesheet: !spritesheet
+    image: "metallic.png"
+    spriteWidth: 32
+    spriteHeight: 32
+    rows: 1
+    columns: 17
+background: "background.png"
+events:
