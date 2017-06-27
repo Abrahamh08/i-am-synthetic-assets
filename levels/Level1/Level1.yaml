@@ -9,4 +9,8 @@ spritesheet: !spritesheet
     rows: 1
     columns: 17
 background: "background.png"
+
 events:
+    - !event
+
+        type: 1
