@@ -2,15 +2,42 @@
 --- !levelmeta
 name: "The Scientist's Lab"
 levelfile: "Level1.dat"
+musicfile: "bensound-scifi.wav"
+contextimages:
+    - "Level1/firstimage.png"
+    - "Level1/secondimage.png"
+
+energyon: false
+
 spritesheet: !spritesheet
     image: "metallic.png"
     spriteWidth: 32
     spriteHeight: 32
     rows: 1
     columns: 17
+
 background: "background.png"
+
+enterX: 0
+enterY: 0
 
 events:
     - !event
-
         type: 1
+
+        obligatory: true
+
+        topX: 13
+        topY: 5
+        bottomX: 26
+        bottomY: 10
+
+        text:
+            - !text
+                str: "test"
+                skippable: false
+                sound: metalking.wav
+
+                effect: 1
+
+                speed: 1.0
