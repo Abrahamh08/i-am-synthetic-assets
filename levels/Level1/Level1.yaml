@@ -1,7 +1,7 @@
 %TAG ! tag:crispbit.com,2017:iamsynth/
 --- !levelmeta
 name: "The Scientist's Lab"
-levelfile: "Level1.dat"
+levelfile: "Level1/Level1.dat"
 musicfile: "bensound-scifi.wav"
 contextimages:
     - "Level1/firstimage.png"
