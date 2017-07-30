@@ -3,18 +3,12 @@
 name: "The Scientist's Lab"
 levelfile: "Level1/Level1.dat"
 musicfile: "bensound-scifi.wav"
+tilefile: "basic-tile.fbx"
 contextimages:
     - "Level1/firstimage.png"
     - "Level1/secondimage.png"
 
 energyon: false
-
-spritesheet: !spritesheet
-    image: "metallic.png"
-    spriteWidth: 32
-    spriteHeight: 32
-    rows: 1
-    columns: 17
 
 background: "background.png"
 
