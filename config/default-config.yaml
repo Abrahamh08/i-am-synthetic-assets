@@ -3,4 +3,5 @@ video:
   height: 600
   fullscreen: yes
   fps: 60
+  title: "mfw"
   
